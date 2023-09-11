@@ -5,10 +5,8 @@ ___
 As the name suggests, it's a generator for cat images. Each image is generatod from a variety of image assets in a variety colors, all picked at random... Thus, Random Cat Generator.
 <img src="https://github.com/Demeterino/Random-Cat-Generator/blob/main/cover.png" width="100%"/>
 
-#### Feature list:
-* Shader editor groups:
-	* Shader presets (currently mostly for Eevee):
-		* watercolorLike
+#### How to Use:
+Click "Your Cat is..." button to generate a cat. There is only one cat generated per click. Certain cat features like face spots or accessories have added rarity, so they dont appear often.
 
 <img src="https://github.com/Demeterino/Random-Cat-Generator/blob/main/guiScreen.JPG" width="60%"/>
 
@@ -19,11 +17,14 @@ As the name suggests, it's a generator for cat images. Each image is generatod f
 
 ---
 #### Planned Features:
-* Generated/UV input line is used to switch between the two Texture Coordinate outputs. Use 0 for Generated and 1 for UV coordinates respectively.
-
----
-#### Credits:
-* Toon, Water Color and Gradient shaders = [Kevandram](https://www.youtube.com/@kevandram)
+* Custom file name
+* Custom output location
+* Custom output amount
+* Custom image size
+* Custom background color/image
+* Custom layer coloring
+* Custom layer rarity
+* More cat details, poses & animals
 
 ---
 If there are any issues or ideas on what to add, contact here on GitHub, I check there from time to time.
