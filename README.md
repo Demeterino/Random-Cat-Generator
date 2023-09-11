@@ -10,7 +10,7 @@ As the name suggests, it's a generator for cat images. Each image is generatod f
 	* Shader presets (currently mostly for Eevee):
 		* watercolorLike
 
-<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/hairNode.png" width="100%"/>
+<img src="https://github.com/Demeterino/Random-Cat-Generator/blob/main/guiScreen.JPG" width="60%"/>
 
 ---
 #### Version list and Changelog:
