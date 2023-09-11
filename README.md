@@ -10,21 +10,17 @@ As the name suggests, it's a generator for cat images. Each image is generatod f
 	* Shader presets (currently mostly for Eevee):
 		* watercolorLike
 
-<p float="left">
-<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/hairNode.png" width="50%"/>
-<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/outlineNode.png" width="40%"/>
-</p>
-
----
-#### Notes:
-* Generated/UV input line is used to switch between the two Texture Coordinate outputs. Use 0 for Generated and 1 for UV coordinates respectively.
-
+<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/hairNode.png" width="100%"/>
 
 ---
 #### Version list and Changelog:
 * Ver. 0.4.2 = Clawing It's Way
 	* Alpha version, base function working on Windows.
-	
+
+---
+#### Planned Features:
+* Generated/UV input line is used to switch between the two Texture Coordinate outputs. Use 0 for Generated and 1 for UV coordinates respectively.
+
 ---
 #### Credits:
 * Toon, Water Color and Gradient shaders = [Kevandram](https://www.youtube.com/@kevandram)
