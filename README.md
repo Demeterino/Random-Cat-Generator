@@ -33,5 +33,3 @@ Click "Your Cat is..." button to generate a cat. There is only one cat generated
 If there are any issues or ideas on what to add, contact here on GitHub, I check there from time to time.
 
 Written in Python 3.11, Tested on Windows 10
-
-*Licensed under GPLv3.*
