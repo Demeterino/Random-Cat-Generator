@@ -1,6 +1,11 @@
 ___
 # Random Cat Generator
 *Cats everywhere, with just a click of a button!*
+
+[![python-3.11](https://img.shields.io/badge/Python_3.11-Python?style=flat&logo=python&labelColor=Blue)](https://www.python.org/downloads/release/python-3114/)
+[![version](https://img.shields.io/github/v/release/Demeterino/Random-Cat-Generator?display_name=release&style=flat&color=cyan)](https://github.com/Demeterino/Random-Cat-Generator/releases/tag/ver-0.4.3)
+[![downloads](https://img.shields.io/github/downloads/Demeterino/Random-Cat-Generator/total?style=flat&color=Green)](https://github.com/Demeterino/Random-Cat-Generator)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ___
 As the name suggests, it's a generator for cat images. Each image is generatod from a variety of image assets in a variety colors, all picked at random... Thus, Random Cat Generator.
 <img src="https://github.com/Demeterino/Random-Cat-Generator/blob/main/cover.png" width="100%"/>
